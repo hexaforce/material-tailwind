@@ -11,6 +11,7 @@ package-lock.json
 yarn.lock
 
 node_modules
+private_html
 dist
 dist-ssr
 *.local
